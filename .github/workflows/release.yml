@@ -58,7 +58,7 @@ jobs:
       - uses: ncipollo/release-action@v1
         # see https://github.com/marketplace/actions/create-release
         with:
-          artifacts: "build/ThreshBuff.mpackage,version.txt"
+          artifacts: "build/ThreshKeepalive.mpackage,version.txt"
           allowUpdates: true
           bodyFile: "./README.md"
           tag: ${{ env.mfile_version }}
