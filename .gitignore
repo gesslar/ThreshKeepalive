@@ -1,0 +1,4 @@
+build/
+.output
+src/resources/version.txt
+/muddle

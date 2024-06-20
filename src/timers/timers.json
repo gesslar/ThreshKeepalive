@@ -1,0 +1,12 @@
+[
+       {
+              "isActive": "yes",
+              "name": "Threshold Keepalive",
+              "command": "",
+              "hours": "0",
+              "minutes": "2",
+              "seconds": "30",
+              "milliseconds": "0",
+              "script": ""
+       }
+]
