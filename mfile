@@ -1,10 +1,10 @@
 {
-       "package": "ThreshKeepalive",
-       "title": "Send a keepalive every 2.5 minutes",
-       "description": "Threshold Keepalive package for Mudlet",
-       "version": "1.2.0",
-       "author": "Gesslar@ThresholdRPG",
-       "icon": "griffon-right.jpg",
-       "dependencies": "",
-       "outputFile": true
+  "package": "ThreshKeepalive",
+  "title": "Send a keepalive every 2.5 minutes",
+  "description": "Threshold Keepalive package for Mudlet",
+  "version": "1.2.1",
+  "author": "Gesslar@ThresholdRPG",
+  "icon": "griffon-right.jpg",
+  "dependencies": "",
+  "outputFile": true
 }
